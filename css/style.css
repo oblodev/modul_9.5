@@ -1,0 +1,15 @@
+.button
+{
+    width: 160px;
+    height: 40px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.button:hover
+{
+    background-color: cornflowerblue;
+    cursor: pointer;
+}
